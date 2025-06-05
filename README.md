@@ -1,12 +1,13 @@
 
-### Hi there 👋, I’m @ROHANTHAKUR
+### Hi there 👋, I’m @MANISHPARDHAN
 
-- 👀 I’m interested in web development, especially working with React, Redux, and APIs.
-- 🌱 I’m currently learning backend development and improving my skills with various APIs 
-- 💞️ I’m looking to collaborate on open-source projects and any cool front-end or backend projects involving APIs.
-- 📫 How to reach me: You can reach me via [rohanthakur89768@gmail.com](mailto:rohanthakur89768@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-makwana-0396a3283/).
+- 📱 I build cross-platform mobile applications using React Native, delivering smooth and performant user experiences.
+- 🌐 Comfortable working across the stack — I’m currently exploring backend development with Node.js and databases like MongoDB and Firebase to become a more complete full-stack developer.
+- 💞️ I’ve made contributions to open-source projects and actively seek out new ones to collaborate on — I believe contributing to the community is a powerful way to grow and give back.
+- 🔌 I have experience working with REST APIs, Firebase, Appwrite, and other backend services to power real-world apps
+- 📫 How to reach me: You can reach me via [pardhanmanish7887@gmail.com](mailto:pardhanmanish7887@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/manish-pardhan-40bb401b5/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and creating  projects to test my skills. One of my recent projects is a Goodreads clone!
+- ⚡ Fun fact: When I'm not coding, I'm probably exploring the latest tech trends, reading dev blogs, or planning my next side project!
 
 
 ## 🌐 Connect with Me:
@@ -24,9 +25,4 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANTHAKUR2004&layout=compact&theme=radical)
-
-
 
