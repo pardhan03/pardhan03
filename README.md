@@ -32,6 +32,8 @@
 ![Anchor](https://img.shields.io/badge/Anchor_Framework-4B0082?style=for-the-badge&logo=anchor&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=blockchain&logoColor=white)
 
+![](https://nirzak-streak-stats.vercel.app/?user=pardhan03&theme=dark&hide_border=false)<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/pardhan03">
