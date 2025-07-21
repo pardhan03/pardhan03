@@ -16,6 +16,7 @@
 
 
 ## 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,9 +27,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-4C47FF?style=for-the-badge)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF9900?style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-3E5E9E?style=for-the-badge&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor_Framework-4B0082?style=for-the-badge&logo=anchor&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=blockchain&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
